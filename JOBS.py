@@ -19,3 +19,6 @@ dataAnalystsSchlumberger= ['sql', 'python', 'ML', 'владение инстру
 dataScientistZaymigo= ['sql', 'python', 'владение инструментами математической статистик', 'sklearn', 'numpy', 'pandas', 'matplotlib', 'R', 'SPSS', 'Statistica', 'Stata']
 dataScientistAlgoMost= ['sql', 'python', 'sklearn', 'numpy', 'pandas', 'xgboost', 'lightgbm', 'catboost', 'PyTorch', 'Tensorflow', 'OpenCV', 'git', 'Hadoop', 'pyspark', 'Kaggle', 'Hive', 'techEng']
 dataScientistInterfucks= ['sql', 'python', 'sklearn', 'numpy', 'pandas', 'владение инструментами математической статистики', 'ML', 'git']
+
+
+print("добавил эту строку в гитхабе")
